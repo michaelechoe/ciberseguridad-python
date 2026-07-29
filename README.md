@@ -30,6 +30,18 @@ Este cuaderno de Google Colab contiene ejercicios prácticos organizados en tres
 
 ---
 
+---
+
+### 2. Variables y Lógica de Control de Acceso (`variables_y_logica_seguridad.ipynb`)
+
+* **Descripción:** Aplicación de conceptos fundamentales de almacenamiento de datos y evaluación condicional para simular el comportamiento de un sistema de autenticación y detección de anomalías.
+* **Conceptos clave clave:**
+  * **Clasificación de datos:** Identificación dinámica del tipo de dato mediante `type()` para garantizar la integridad en operaciones (`str`, `int`, `list`, `bool`).
+  * **Gestión de entidades:** Estructuración de listas de usuarios (`list`) para el control de cuentas autorizadas.
+  * **Evaluación de políticas de acceso:** Implementación de operadores de comparación (`<=`) para validar si los intentos de inicio de sesión superan los límites de la política de seguridad (`max_logins`).
+
+
+
 ## 🚀 Cómo Ejecutar este Laboratorio
 
 1. Abre el archivo [`Untitled0.ipynb`](./Untitled0.ipynb) directamente en GitHub.
